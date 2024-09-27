@@ -1,0 +1,10 @@
+# ninja log v6
+77	754	7491696985884383	CMakeFiles/Laundromat.dir/Kiosk.cpp.obj	91aa519034d2da76
+91	776	7491696986013024	CMakeFiles/Laundromat.dir/Customer.cpp.obj	fa20b6e543cea123
+20	919	7491696985303772	CMakeFiles/Laundromat.dir/main.cpp.obj	2fb7e75480e661de
+63	1157	7491696985739436	CMakeFiles/Laundromat.dir/Laundromat.cpp.obj	195d79d50fbc6dc
+36	1704	7491696985461218	CMakeFiles/Laundromat.dir/Washer.cpp.obj	af43d7c8078a6e58
+51	1722	7491696985617576	CMakeFiles/Laundromat.dir/Dryer.cpp.obj	5e540f034d8b228e
+1722	2471	7491697002331075	Laundromat.exe	7a76d8a5aab8f4f
+13	546	7491697931195178	CMakeFiles/Laundromat.dir/Kiosk.cpp.obj	91aa519034d2da76
+546	1254	7491697936529360	Laundromat.exe	7a76d8a5aab8f4f
